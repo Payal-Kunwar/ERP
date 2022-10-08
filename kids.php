@@ -187,22 +187,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
 				<li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-				<li class="active">Men</li>
+				<li class="active">Kids</li>
 			</ol>
 		</div>
 	</div>
 <!--content-->
 <div class="products">
 	<div class="container">
-		<h2>Men</h2>
+		<h2>Kids</h2>
 		<div class="col-md-9">
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi9.png" alt="" />
+							<img class="img-responsive" src="images/pi14.jpg" alt="" />
 						</a>
-						<h3><a href="single.php">Trouser</a></h3>
+						<h3><a href="single.php">Dress</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -213,9 +213,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi12.png" alt="" />
+							<img class="img-responsive" src="images/pi18.jpg" style="height:320px;" alt="" />
 						</a>
-						<h3><a href="single.php">Trouser</a></h3>
+						<h3><a href="single.php">Formals</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -227,54 +227,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi10.png" alt="" />
+							<img class="img-responsive" src="images/pi15.jpg" style="height:320px;" alt="" />
 						</a>
-						<h3><a href="single.php">Pant</a></h3>
-						<div class="price">
-								<h5 class="item_price">$300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
-			
-			<div class="clearfix"> </div>
-			</div>	
-			<div class="content-top1">
-				<div class="col-md-4 col-md4">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
-							<img class="img-responsive" src="images/pi11.png" alt="" />
-						</a>
-						<h3><a href="single.php">Trouser</a></h3>
-						<div class="price">
-								<h5 class="item_price">$300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-					</div>
-				</div>	
-			<div class="col-md-4 col-md4">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
-							<img class="img-responsive" src="images/pi9.png" alt="" />
-						</a>
-						<h3><a href="single.php">Palazoo</a></h3>
-						<div class="price">
-								<h5 class="item_price">$300</h5>
-								<a href="#" class="item_add">Add To Cart</a>
-								<div class="clearfix"> </div>
-						</div>
-						
-					</div>
-				</div>	
-			<div class="col-md-4 col-md4">
-					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.php">
-							<img class="img-responsive" src="images/pi12.png" alt="" />
-						</a>
-						<h3><a href="single.php">Palazoo</a></h3>
+						<h3><a href="single.php">Gown</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -290,9 +245,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi10.png" alt="" />
+							<img class="img-responsive" src="images/pi19.jpg" alt="" />
 						</a>
-						<h3><a href="single.php">Trouser</a></h3>
+						<h3><a href="single.php">Ethnic</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -303,9 +258,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi11.png" alt="" />
+							<img class="img-responsive" src="images/pi16.jpg" style="height:320px;" alt="" />
 						</a>
-						<h3><a href="single.php">Jeans</a></h3>
+						<h3><a href="single.php">Dress</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
@@ -317,9 +272,54 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
 						<a href="single.php">
-							<img class="img-responsive" src="images/pi9.png" alt="" />
+							<img class="img-responsive" src="images/pi20.jpg" style="height:320px;" alt="" />
 						</a>
-						<h3><a href="single.php">Trouser</a></h3>
+						<h3><a href="single.php">Formals</a></h3>
+						<div class="price">
+								<h5 class="item_price">$300</h5>
+								<a href="#" class="item_add">Add To Cart</a>
+								<div class="clearfix"> </div>
+						</div>
+						
+					</div>
+				</div>	
+			
+			<div class="clearfix"> </div>
+			</div>	
+			<div class="content-top1">
+				<div class="col-md-4 col-md4">
+					<div class="col-md1 simpleCart_shelfItem">
+						<a href="single.php">
+							<img class="img-responsive" src="images/pi17.jpg" style="height:320px;" alt="" />
+						</a>
+						<h3><a href="single.php">Ethnic</a></h3>
+						<div class="price">
+								<h5 class="item_price">$300</h5>
+								<a href="#" class="item_add">Add To Cart</a>
+								<div class="clearfix"> </div>
+						</div>
+					</div>
+				</div>	
+			<div class="col-md-4 col-md4">
+					<div class="col-md1 simpleCart_shelfItem">
+						<a href="single.php">
+							<img class="img-responsive" src="images/pi21.jpg" style="height:320px;" alt="" />
+						</a>
+						<h3><a href="single.php">Ethnic</a></h3>
+						<div class="price">
+								<h5 class="item_price">$300</h5>
+								<a href="#" class="item_add">Add To Cart</a>
+								<div class="clearfix"> </div>
+						</div>
+						
+					</div>
+				</div>	
+			<div class="col-md-4 col-md4">
+					<div class="col-md1 simpleCart_shelfItem">
+						<a href="single.php">
+							<img class="img-responsive" src="images/pi22.jpg" style="height:320px;" alt="" />
+						</a>
+						<h3><a href="single.php">Dress</a></h3>
 						<div class="price">
 								<h5 class="item_price">$300</h5>
 								<a href="#" class="item_add">Add To Cart</a>
