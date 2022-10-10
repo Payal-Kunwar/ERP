@@ -134,7 +134,8 @@ h1,h2,h3,h4,h5,h6,label,p{
 
 }
 .dropdown-menu {
-    right: 260px !important;
+/*     right: 260px !important; */
+    width: 155px;
     left:inherit;
 }    
 .nav_bottom{
