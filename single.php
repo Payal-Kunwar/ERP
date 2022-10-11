@@ -202,6 +202,7 @@ else{
 </style>
 
 <title>Youth Fashion | Preview </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.css">
 <link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -835,7 +836,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
 <!--footer-->
 <!-- slide -->
-<script src="js/jquery.min.js"></script>
+<!-- <script src="js/jquery.min.js"></script> -->
 <script src="js/imagezoom.js"></script>
 <!-- start menu -->
 <script type="text/javascript" src="js/memenu.js"></script>
