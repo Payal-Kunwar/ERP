@@ -217,10 +217,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-<!-- start menu -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/simpleCart.min.js"> </script>
-<!-- slide -->
+
+
+<script>
+// Can also be used with $(document).ready()
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide",
+    controlNav: "thumbnails"
+  });
+});
+</script>
+
+
+<!-- Slider -->
 <script src="js/responsiveslides.min.js"></script>
    <script>
     $(function () {
@@ -232,7 +242,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       });
     });
   </script>
-
 </head>
 <body>
 <!--header-->
@@ -843,7 +852,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script>$(document).ready(function(){$(".memenu").memenu();});</script>
 <script src="js/simpleCart.min.js"> </script>
 <!--initiate accordion-->
-						<script type="text/javascript">
+
+
+<!-- start menu -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/simpleCart.min.js"> </script>
+<!-- slide -->
+
+<script type="text/javascript">
 							$(function() {
 							    var menu_ul = $('.menu-drop > li > ul'),
 							           menu_a  = $('.menu-drop > li > a');
@@ -865,16 +881,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<!-- FlexSlider -->
   <script defer src="js/jquery.flexslider.js"></script>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-
-<script>
-// Can also be used with $(document).ready()
-$(window).load(function() {
-  $('.flexslider').flexslider({
-    animation: "slide",
-    controlNav: "thumbnails"
-  });
-});
-</script>
 <!---pop-up-box---->
 					<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
 					<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
